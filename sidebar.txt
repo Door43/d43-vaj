@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vaj:home|Door43 (vaj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vaj|d43-vaj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vaj/archive/master.zip|d43-vaj.zip]]
+
+**Recent Changes**
+{{changes>ns = vaj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vaj|Ethnologue data]]
+
